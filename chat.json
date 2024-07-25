@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a navbar with the navlinks home, about and contact",
+        "message_id": "guest25072024071215",
+        "timestamp": "25072024071216",
+        "component_file_name": "dark_footer_component_1721891416",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "<button>Hello World</button>",
         "message_id": "guest25072024071050",
